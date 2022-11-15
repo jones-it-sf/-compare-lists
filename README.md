@@ -35,9 +35,9 @@ i
 **Once you have entered in the data to the variables:**
 1) Save
 2) Make sure file is executable via chmod +x filename
-3) If you want to run from anywhere, add file to path. Otherwise from terminal, make sure you are in the same directory as the file.
-   Ex: michael@JIT-Michael-Woods-MacBook-Pro ~ % cd Desktop
-       michael@JIT-Michael-Woods-MacBook-Pro Desktop % python3 check_for_same.py
+3) If you want to run from anywhere, add file to path. Otherwise from terminal, make sure you are in the same directory as the file./n
+   Ex: michael@JIT-Michael-Woods-MacBook-Pro ~ % cd Desktop /n
+       michael@JIT-Michael-Woods-MacBook-Pro Desktop % python3 check_for_same.py /n
 4) **Samle Output based on above data:**
    ['c', 'd', '4', 'h', 'i', '5']
       
