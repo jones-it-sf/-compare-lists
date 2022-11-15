@@ -6,7 +6,7 @@ Starts with two variables: og_string and og_string_2
 I have only used it by copying a column from a .csv and pasting it into the variables.
 
 **Example Data in Variables:**
-###########
+
 og_string = """a
 b
 c
@@ -31,7 +31,6 @@ h
 5
 i
 9"""
-###########
 
 **Once you have entered in the data to the variables:**
 1) Save
